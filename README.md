@@ -76,7 +76,7 @@ Dont forget to fork & star repo
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='https://zaynixxd.biz.id/' target="_blank">
+  <a href='https://subxero.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
